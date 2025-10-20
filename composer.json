@@ -1,0 +1,31 @@
+{
+  "name": "jeffersonsimaogoncalves/cakephp-settings",
+  "description": "Settings plugin for CakePHP",
+  "type": "cakephp-plugin",
+  "keywords": [
+    "cakephp",
+    "orm",
+    "settings",
+    "configure"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "CakeManager",
+      "homepage": "http://cakemanager.org"
+    },
+    {
+      "name": "Jefferson Simão Gonçalves",
+      "homepage": "https://github.com/jeffersonsimaogoncalves"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "cakephp/orm": "^3.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Settings\\": "src"
+    }
+  }
+}
