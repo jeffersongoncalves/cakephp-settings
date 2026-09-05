@@ -1,5 +1,7 @@
 # Settings plugin for CakePHP
 
+![CakePHP Settings](banners/cakephp-settings.png)
+
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersongoncalves)
 
 The Settings Plugin allows you to manage your settings (normally used with cake's `Configure`-class) in your database.
